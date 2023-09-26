@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\veri türleri örnekleri\veri türleri örnekleri\bin\Debug\veri türleri örnekleri.exe.config
+C:\Users\User\source\repos\veri türleri örnekleri\veri türleri örnekleri\bin\Debug\veri türleri örnekleri.exe
+C:\Users\User\source\repos\veri türleri örnekleri\veri türleri örnekleri\bin\Debug\veri türleri örnekleri.pdb
+C:\Users\User\source\repos\veri türleri örnekleri\veri türleri örnekleri\obj\Debug\veri türleri örnekleri.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\veri türleri örnekleri\veri türleri örnekleri\obj\Debug\veri türleri örnekleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\veri türleri örnekleri\veri türleri örnekleri\obj\Debug\veri_türleri_örnekleri.Form1.resources
+C:\Users\User\source\repos\veri türleri örnekleri\veri türleri örnekleri\obj\Debug\veri_türleri_örnekleri.Properties.Resources.resources
+C:\Users\User\source\repos\veri türleri örnekleri\veri türleri örnekleri\obj\Debug\veri türleri örnekleri.csproj.GenerateResource.cache
+C:\Users\User\source\repos\veri türleri örnekleri\veri türleri örnekleri\obj\Debug\veri türleri örnekleri.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\veri türleri örnekleri\veri türleri örnekleri\obj\Debug\veri türleri örnekleri.exe
+C:\Users\User\source\repos\veri türleri örnekleri\veri türleri örnekleri\obj\Debug\veri türleri örnekleri.pdb
